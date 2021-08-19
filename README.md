@@ -2,6 +2,7 @@
 - 👀 I’m interested in technology solutions
 - 🌱 I’m currently learning in programming
 - 💞️ I'm a collaborator of sly
+- CTO in Tacular
 
 <!---
 chgresma/chgresma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
