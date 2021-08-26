@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chgresma
 - 👀 I’m building technology solutions
 - 🌱 I’m currently learning in programming
-- 💞️ I'm a collaborator of sly (Son0fAnton)
+- 💞️ I'm a collaborator of Sly (Son0fAnton)
 - CTO in Tacular
 
 <!---
